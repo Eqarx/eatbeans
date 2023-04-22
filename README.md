@@ -1,1 +1,2 @@
-# eatbeans
+# eatbeans.
+It is a program
